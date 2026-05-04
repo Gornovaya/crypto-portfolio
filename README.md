@@ -3,7 +3,8 @@ Cryptography portfolio: GCD/LCM, extended Euclidean, primality sieves, Fermat fa
 
 Educational project — implementations of fundamental cryptographic and number-theoretic algorithms.
 
-**Algorithms Implemented:**
+**Algorithms Implemented:**␣␣  
+
 | Algorithm | Task |
 |:--------|:--------:|--------------:|
 | 1	LCM (Least Common Multiple) |
@@ -27,7 +28,7 @@ Educational project — implementations of fundamental cryptographic and number-
 | 19	Montgomery multiplication & exponentiation |
 | 20	Pépin's test (Fermat primality test) |
 
-**Requirements:**
+**Requirements:**␣␣
 Python 3.8+.
 No external dependencies are strictly required for most algorithms.
 Optional (for symbolic polynomial operations in tasks 16–17, but the repository contains pure Python fallbacks where possible):
@@ -35,7 +36,7 @@ Optional (for symbolic polynomial operations in tasks 16–17, but the repositor
 pip install sympy
 ```
 
-**RUN:**
+**RUN:**␣␣ 
 1. Clone the repository
 
 ```bash
@@ -51,9 +52,9 @@ python 01_lcm_gcd.py   # example
 5. Follow the console prompts — each script asks for necessary inputs (numbers, modulus, etc.) and prints intermediate steps.
 
 
-**Project Structure:**
-cryptography-portfolio/
-├── labs
-├── docx
-├── README.md
-└── LICENSE
+**Project Structure:**␣␣  
+cryptography-portfolio/␣␣  
+├── labs␣␣  
+├── docx␣␣  
+├── README.md␣␣  
+└── LICENSE␣␣  
