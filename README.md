@@ -5,8 +5,8 @@ Educational project — implementations of fundamental cryptographic and number-
 
 **Algorithms Implemented:**
 
-| Algorithm | Task |
-|:--------|:--------:|
+| Algorithm | 
+|:--------|
 | 1	LCM (Least Common Multiple) |
 | 2	GCD & Extended Euclidean Algorithm (linear decomposition) |
 | 3	Prime number generation — Sieve of Eratosthenes & Sundaram |
@@ -56,8 +56,12 @@ python 01_lcm_gcd.py   # example
 
 **Project Structure:** 
 
-cryptography-portfolio/  
+cryptography-portfolio/
+
 ├── labs
-├── docx 
+
+├── docx
+
 ├── README.md 
+
 └── LICENSE  
